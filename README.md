@@ -15,6 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+<div align=center>
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Hi%20I'm%20Seoyeon😊&fontSize=80)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zerordxz&show_icons=true&theme=radical)
+
+</div>
