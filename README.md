@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Coding%20Seoyeon😊&fontSize=50)
 
-### 🤍Seoyeon🤍
+# 🤍Seoyeon🤍
 
 <a href="https://www.instagram.com/zerordxz/">
     <img 
@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 <br/><br/>
 
-### 💻Tech Stack💻
+# 💻Tech Stack💻
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
