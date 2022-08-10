@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 
 <br/><br/>
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zerordxz&show_icons=true&theme=graywhite)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seoyeonni&show_icons=true&theme=graywhite)
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=footer&text=&fontSize=80)
   
