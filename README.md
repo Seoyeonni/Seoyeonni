@@ -18,16 +18,6 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Coding%20Seoyeon😊&fontSize=50)
 
-# 🤍Seoyeon🤍
-
-<a href="https://www.instagram.com/zerordxz/">
-    <img 
-        src="http://img.shields.io/badge/-Instagram-E4405F?style=flat&logoColor=white&logo=Instagram&link=https://www.Instagram.com/zerordxz/"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
-
-<br/><br/>
-
 # 💻Tech Stack💻
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
